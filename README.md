@@ -9,3 +9,6 @@ Artificial Intelligence Integration: Bolt.new clone incorporates AI capabilities
 In-Browser IDE: Bolt.new clone offers a comprehensive development environment that supports prompt execution, code editing, and deployment of full-stack web applications, all within the browser. 
 
 By combining these technologies, Bolt.new clone streamlines the web development workflow, enabling developers to build, test, and deploy applications more efficiently without the need for extensive local setups.
+
+Note to remember, AI here is to assist humans, not to rob our job .So, make sure to learn and use it in our daily tasks.
+--by Poorna Chandra Dinesh.
